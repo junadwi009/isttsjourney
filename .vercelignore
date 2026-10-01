@@ -1,0 +1,15 @@
+# Deploy only the public visitor app at repository root.
+studio/
+src/
+tests/
+tools/
+docs/
+README.original.md
+CHANGELOG.md
+LICENSE
+THIRD_PARTY_NOTICES.md
+VERSION.txt
+ISTTS-Template.campus.json
+*.campus.json
+*.zip
+*.7z
