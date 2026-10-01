@@ -1,0 +1,17 @@
+# Local editor backups / exports
+*.campus.json
+!ISTTS-Template.campus.json
+*.zip
+*.7z
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+__pycache__/
+.pytest_cache/
